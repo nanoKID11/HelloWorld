@@ -1,2 +1,3 @@
-# HelloWorld
-deskripsi1
+nanoKID introduce me, I am a beginner in the program ..
+by the time you read this .. 
+I have uploaded mean little about the listing that I created ...
